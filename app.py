@@ -1,5 +1,5 @@
 import os
-import ccxt
+# import ccxt
 import rehive as rehive_sdk
 import krakenex
 import math
